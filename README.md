@@ -15,7 +15,9 @@ Tech Stack & Principles
 3. OpenCV Rendering: 수학적으로 계산된 3D 좌표를 실시간 영상 위에 와이어프레임(Wireframe)으로 그려냅니다.
 
                       
-Setup
-Python 3.8+
-"pip install opencv-python mediapipe numpy"
+Installation
+1. OS: macOS / Windows / Linux
+2. Python: 3.8 +
+3. in Terminal (pip3 install opencv-python mediapipe numpy)
+4. python3 main.py
 
